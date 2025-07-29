@@ -9,6 +9,6 @@ let nomesPokemon = [
   ["wurmple", "M", 2]
   
 ]
-const msg = " foi cadastrado com sucesso!!"
+const msg = " foi cadastrado com sucesso!"
 
 console.log("O pokemon " + nomesPokemon[1][0] + " do sexo " + nomesPokemon[1][1] + " que está no nível " + nomesPokemon[1][2] + msg)
