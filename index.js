@@ -7,6 +7,8 @@ let nomesPokemon = [
   ["poochyena", "F", 3],
   ["wurmple", "M", 2],
   ["wurmple", "F", 2],
+  ["pidgey", "M", 4],
+  ["pidgey", "F", 4],
 ];
 const msg = " foi cadastrado com sucesso!";
 
@@ -27,5 +29,25 @@ console.log(
     nomesPokemon[1][1] +
     " que está no nível " +
     nomesPokemon[1][2] +
+    msg
+);
+
+console.log(
+  "O pokemon " +
+    nomesPokemon[2][0] +
+    " do sexo " +
+    nomesPokemon[2][1] +
+    " que está no nível " +
+    nomesPokemon[2][2] +
+    msg
+);
+
+console.log(
+  "O pokemon " +
+    nomesPokemon[3][0] +
+    " do sexo " +
+    nomesPokemon[3][1] +
+    " que está no nível " +
+    nomesPokemon[3][2] +
     msg
 );
