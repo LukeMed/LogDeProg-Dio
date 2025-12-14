@@ -9,7 +9,7 @@ let nomesPokemon = [
   ["poochyena", "F", 3],
   ["wurmple", "M", 2],
   ["wurmple", "F", 2],
-  ["pidgey", "M", 4],
+  ["pidgey", "M", 3],
   ["pidgey", "F", 4],
 ];
 const msg = " foi cadastrado com sucesso!";
